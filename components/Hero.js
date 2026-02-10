@@ -15,7 +15,7 @@ export default function Hero() {
               className="px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg hover:bg-gray-100 transition"
             >
               Learn More
-            </a>
+            </a><br></br>
             <a
               href="/contact"
               className="px-6 py-3 border border-white font-semibold rounded-lg hover:bg-white hover:text-blue-600 transition"
