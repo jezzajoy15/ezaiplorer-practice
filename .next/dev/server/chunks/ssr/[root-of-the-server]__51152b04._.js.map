@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Jezza%20Joy/ezaiplorer-practice/components/Header.js"],"sourcesContent":["export default function Header() {\r\n    return (\r\n      <header>\r\n        <h1>ezaiplorer.com</h1>\r\n      </header>\r\n    );\r\n  }"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACE,qKAAC;kBACC,cAAA,qKAAC;sBAAG;;;;;;;;;;;AAGV"}},
+    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Jezza%20Joy/ezaiplorer-practice/components/Hero.js"],"sourcesContent":["export default function Hero() {\r\n    return (\r\n      <section>\r\n        <h2>Welcome to ezaiplorer.com</h2>\r\n        <p>Your practice site for Next.js + Vercel.</p>\r\n      </section>\r\n    );\r\n  }"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACE,qKAAC;;0BACC,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGT"}},
+    {"offset": {"line": 63, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Jezza%20Joy/ezaiplorer-practice/components/Footer.js"],"sourcesContent":["export default function Footer() {\r\n    return (\r\n      <footer>\r\n        <p>© 2026 ezaiplorer.com</p>\r\n      </footer>\r\n    );\r\n  }"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACE,qKAAC;kBACC,cAAA,qKAAC;sBAAE;;;;;;;;;;;AAGT"}},
+    {"offset": {"line": 88, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Jezza%20Joy/ezaiplorer-practice/pages/index.js"],"sourcesContent":["import Header from \"../components/Header\";\r\nimport Hero from \"../components/Hero\";\r\nimport Footer from \"../components/Footer\";\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div>\r\n      <Header />\r\n      <Hero />\r\n      <Footer />\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;AAAA;AACA;AACA;;;;;AAEe,SAAS;IACtB,qBACE,qKAAC;;0BACC,qKAAC,wHAAM;;;;;0BACP,qKAAC,sHAAI;;;;;0BACL,qKAAC,wHAAM;;;;;;;;;;;AAGb"}}]
+}
